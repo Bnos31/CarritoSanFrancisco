@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "514738327460",
+    "firebase_url": "https://carrito-sanfrancisco-default-rtdb.firebaseio.com",
+    "project_id": "carrito-sanfrancisco",
+    "storage_bucket": "carrito-sanfrancisco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514738327460:android:86c27f389813e2e53f7b31",
+        "android_client_info": {
+          "package_name": "com.example.carritosanfrancisco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDAnoX2tjiqJYUTWFNC3YNSRRSaez8d9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514738327460:android:fda4b9eee291557a3f7b31",
+        "android_client_info": {
+          "package_name": "com.example.proyectosanfrancisco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDAnoX2tjiqJYUTWFNC3YNSRRSaez8d9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
