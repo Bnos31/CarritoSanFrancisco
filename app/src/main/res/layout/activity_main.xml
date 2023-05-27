@@ -6,16 +6,17 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="@color/purple_500">
+
     <TextView
+        android:id="@+id/textViewWelcome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="Bienvenido"
+        android:textAlignment="center"
+        android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="Bienvenido"
-        android:textSize="30dp"
-        android:padding="20dp"
-        android:id="@+id/textViewWelcome"
-        android:textAlignment="center"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
